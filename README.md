@@ -131,7 +131,7 @@ Educational Purpose Only
 
 ## Authors & Contributors
 
-**Project Developer:** Swadhin Behera
+**Project Developer:** Lakshmi Swadhin Behera
 
 ## Acknowledgments
 
