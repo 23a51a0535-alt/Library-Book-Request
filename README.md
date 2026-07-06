@@ -141,6 +141,7 @@ Developed using ServiceNow best practices for library automation.
 
 **Last Updated:** July 2026  
 **Version:** 1.0
+
 **Repository:** [Library-Book-Request-System-in-ServiceNow]
 https://github.com/23a51a0535-alt/Library-Book-Request.git
 
